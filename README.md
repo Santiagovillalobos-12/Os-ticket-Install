@@ -199,6 +199,7 @@ Confirme la sintaxis de configuración:
 
 ```sh
 sudo apachectl -t 
+
 (Deberia aparecer el siguiente mensaje)
 
 Sintaxis correcta
